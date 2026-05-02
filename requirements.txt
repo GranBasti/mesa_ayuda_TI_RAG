@@ -1,0 +1,7 @@
+pandas
+chromadb
+sentence-transformers
+azure-ai-inference
+azure-core
+python-dotenv
+scikit-learn

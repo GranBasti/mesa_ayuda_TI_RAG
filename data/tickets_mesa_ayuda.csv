@@ -1,0 +1,21 @@
+ticket_id,mensaje_usuario,categoria,subcategoria,prioridad,sistema_afectado,requiere_escalamiento
+TCK-001,"No puedo iniciar sesión en mi correo institucional, dice contraseña incorrecta.",Acceso a cuentas,Recuperación de contraseña,Alta,Correo institucional,No
+TCK-002,Mi cuenta fue bloqueada después de varios intentos fallidos.,Acceso a cuentas,Cuenta bloqueada,Media,Portal universitario,No
+TCK-003,No puedo acceder a la plataforma educativa desde ayer.,Plataforma educativa,Error de acceso,Alta,LMS,Sí
+TCK-004,Las clases grabadas no cargan en la plataforma.,Plataforma educativa,Contenido no disponible,Media,LMS,Sí
+TCK-005,No tengo conexión a internet en la sala de estudio.,Conectividad,WiFi no disponible,Alta,Red WiFi campus,Sí
+TCK-006,La red inalámbrica se desconecta constantemente.,Conectividad,Intermitencia WiFi,Media,Red WiFi campus,No
+TCK-007,No puedo acceder al sistema de matrícula.,Plataforma educativa,Error de sistema,Alta,Sistema de matrícula,Sí
+TCK-008,Olvidé mi usuario institucional.,Acceso a cuentas,Recuperación de usuario,Baja,Portal universitario,No
+TCK-009,"No puedo subir tareas, aparece error al cargar archivo.",Plataforma educativa,Carga de archivos,Media,LMS,Sí
+TCK-010,La VPN no conecta desde mi casa.,Conectividad,Problema VPN,Alta,VPN institucional,Sí
+TCK-011,Mi cuenta fue desactivada sin motivo aparente.,Acceso a cuentas,Cuenta deshabilitada,Alta,Active Directory,Sí
+TCK-012,No puedo ver mis calificaciones en la plataforma.,Plataforma educativa,Visualización de notas,Media,LMS,No
+TCK-013,El internet por cable no funciona en mi laboratorio.,Conectividad,Red cableada,Alta,Red LAN,Sí
+TCK-014,No puedo cambiar mi contraseña desde el portal.,Acceso a cuentas,Cambio de contraseña,Media,Portal universitario,No
+TCK-015,Las evaluaciones online no se cargan correctamente.,Plataforma educativa,Evaluaciones,Alta,LMS,Sí
+TCK-016,El WiFi es muy lento en la biblioteca.,Conectividad,Baja velocidad,Media,Red WiFi campus,No
+TCK-017,No puedo acceder a mi correo desde el celular.,Acceso a cuentas,Configuración de dispositivo,Baja,Correo institucional,No
+TCK-018,Error 500 al ingresar a la plataforma educativa.,Plataforma educativa,Error servidor,Alta,LMS,Sí
+TCK-019,No puedo conectarme a la red VPN desde Mac.,Conectividad,Problema VPN,Media,VPN institucional,Sí
+TCK-020,Mi sesión se cierra automáticamente en el portal.,Acceso a cuentas,Problema de sesión,Media,Portal universitario,No
